@@ -17,10 +17,15 @@ PREVIEW
 🌐 Socials:
 Instagram [LinkedIn](https://linkedin.com/in/Vishmitha GP) Mastodon email
 
+email
 💻 Tech Stack:
 C Java Python AWS Google Cloud Oracle MySQL Canva NumPy Pandas Git GitHub
 
 📊 GitHub Stats:
+
+
+
+
 
 
 
